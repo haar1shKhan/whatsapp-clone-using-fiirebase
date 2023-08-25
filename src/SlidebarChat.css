@@ -1,0 +1,32 @@
+.slidebarChat{
+
+    display: flex;
+    padding: 15px;
+    border-bottom: 1px solid #f6f6f6;
+    align-items: center;
+    cursor: pointer;
+
+}
+
+.slidebarChat:hover{
+
+    background-color: #ebebeb;
+
+}
+
+.slidebarChat__info >h2{
+
+    margin-left: 8px;
+    margin-bottom: 8px;
+    font-size: 16pxS;
+}
+.slidebarChat__info >p{
+    margin-left: 8px;
+
+}
+
+a{
+    text-decoration: none !important;
+    color: black;
+}
+
